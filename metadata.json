@@ -1,0 +1,5 @@
+{
+  "name": "CharpySim Lab",
+  "description": "Interactive Charpy Impact Test simulator for analyzing material toughness and fracture mechanics. Compare materials, visualize energy absorption, and get AI-powered engineering insights.",
+  "requestFramePermissions": []
+}
